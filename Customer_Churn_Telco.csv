@@ -1,0 +1,700 @@
+Gender,Tenure Months,Internet Service,Monthly Charges,Total Charges,Churn Label,Churn Value,Churn Score,CLTV,Churn Reason
+Male,2,DSL,53.85,108.15,Yes,1,86,3239,Competitor made better offer
+Female,2,Fiber optic,70.7,151.65,Yes,1,67,2701,Moved
+Female,8,Fiber optic,99.65,820.5,Yes,1,86,5372,Moved
+Female,28,Fiber optic,104.8,3046.05,Yes,1,84,5003,Moved
+Male,49,Fiber optic,103.7,5036.3,Yes,1,89,5340,Competitor had better devices
+Female,10,DSL,55.2,528.35,Yes,1,78,5925,Competitor offered higher download speeds
+Male,1,DSL,39.65,39.65,Yes,1,100,5433,Competitor offered more data
+Male,1,No,20.15,20.15,Yes,1,92,4832,Competitor made better offer
+Male,47,Fiber optic,99.35,4749.15,Yes,1,77,5789,Competitor had better devices
+Male,1,DSL,30.2,30.2,Yes,1,97,2915,Competitor had better devices
+Female,17,DSL,64.7,1093.1,Yes,1,74,3022,Competitor offered higher download speeds
+Male,5,Fiber optic,69.7,316.9,Yes,1,66,2454,Competitor offered higher download speeds
+Male,34,Fiber optic,106.35,3549.25,Yes,1,65,2941,Competitor offered higher download speeds
+Female,11,Fiber optic,97.85,1105.4,Yes,1,70,5674,Competitor offered more data
+Female,2,Fiber optic,80.65,144.15,Yes,1,90,5586,Competitor offered more data
+Female,15,Fiber optic,99.1,1426.4,Yes,1,82,2966,Competitor offered more data
+Female,8,Fiber optic,80.65,633.3,Yes,1,69,5302,Competitor made better offer
+Male,18,Fiber optic,95.45,1752.55,Yes,1,81,3179,Competitor made better offer
+Female,9,Fiber optic,94.4,857.25,Yes,1,96,5571,Price too high
+Female,1,Fiber optic,79.35,79.35,Yes,1,87,2483,Product dissatisfaction
+Female,7,Fiber optic,75.15,496.9,Yes,1,70,3457,Service dissatisfaction
+Female,12,Fiber optic,78.95,927.35,Yes,1,86,5806,Lack of self-service on Website
+Male,5,No,21.05,113.85,Yes,1,66,2604,Network reliability
+Female,25,Fiber optic,98.5,2514.5,Yes,1,88,5337,Limited range of services
+Male,68,Fiber optic,110,7611.85,Yes,1,86,5034,Lack of affordable download/upload speed
+Male,55,Fiber optic,96.75,5238.9,Yes,1,75,5154,Long distance charges
+Female,37,Fiber optic,76.5,2868.15,Yes,1,67,2793,Extra data charges
+Female,10,Fiber optic,100.25,1064.65,Yes,1,87,5998,Price too high
+Male,3,Fiber optic,74.4,229.55,Yes,1,76,4415,Product dissatisfaction
+Female,27,Fiber optic,78.05,2135.5,Yes,1,95,4638,Service dissatisfaction
+Female,25,DSL,58.6,1502.65,Yes,1,99,4190,Lack of self-service on Website
+Male,1,DSL,35.45,35.45,Yes,1,80,2301,Network reliability
+Male,2,DSL,44.35,81.25,Yes,1,76,2570,Don't know
+Female,1,Fiber optic,70.45,70.45,Yes,1,76,3964,Don't know
+Female,8,DSL,71.15,563.65,Yes,1,66,2662,Don't know
+Male,1,DSL,45.65,45.65,Yes,1,73,2600,Poor expertise of online support
+Male,7,Fiber optic,95,655.5,Yes,1,94,2786,Poor expertise of phone support
+Female,20,Fiber optic,82.4,1592.35,Yes,1,86,5719,Price too high
+Female,4,Fiber optic,70.9,273,Yes,1,75,4287,Product dissatisfaction
+Male,58,DSL,45.3,2651.2,Yes,1,100,5444,Service dissatisfaction
+Female,2,Fiber optic,104.4,242.8,Yes,1,83,4690,Lack of self-service on Website
+Female,53,Fiber optic,94.85,5000.2,Yes,1,80,4328,Network reliability
+Female,15,Fiber optic,74.45,1145.7,Yes,1,99,5717,Limited range of services
+Female,7,Fiber optic,76.45,503.6,Yes,1,81,4419,Lack of affordable download/upload speed
+Female,1,DSL,29.95,29.95,Yes,1,95,4534,Long distance charges
+Male,8,Fiber optic,84.5,662.65,Yes,1,86,2152,Extra data charges
+Female,13,Fiber optic,79.25,1111.65,Yes,1,73,5142,Price too high
+Female,1,DSL,24.8,24.8,Yes,1,94,4851,Product dissatisfaction
+Male,6,Fiber optic,91,531,Yes,1,94,2283,Service dissatisfaction
+Male,1,Fiber optic,79.9,79.9,Yes,1,98,3394,Lack of self-service on Website
+Female,19,Fiber optic,106.6,1934.45,Yes,1,71,3764,Network reliability
+Male,2,DSL,46,84.5,Yes,1,76,2667,Don't know
+Female,4,Fiber optic,70.15,268.35,Yes,1,67,2227,Don't know
+Male,4,DSL,50.05,179.35,Yes,1,82,3394,Don't know
+Female,1,DSL,55.2,55.2,Yes,1,81,3638,Poor expertise of online support
+Male,1,Fiber optic,84.6,84.6,Yes,1,66,2484,Poor expertise of phone support
+Male,2,DSL,54.4,114.1,Yes,1,81,2556,Price too high
+Female,11,Fiber optic,95,1120.3,Yes,1,85,5980,Product dissatisfaction
+Male,15,Fiber optic,74.4,1074.3,Yes,1,86,4616,Service dissatisfaction
+Male,1,DSL,48.55,48.55,Yes,1,77,5687,Lack of self-service on Website
+Female,2,Fiber optic,70.4,147.15,Yes,1,75,5687,Network reliability
+Male,1,DSL,40.2,40.2,Yes,1,65,5828,Limited range of services
+Female,2,DSL,44.6,80.55,Yes,1,99,4884,Lack of affordable download/upload speed
+Male,3,DSL,41.15,132.2,Yes,1,96,2314,Long distance charges
+Male,13,Fiber optic,106.9,1364.3,Yes,1,84,2494,Extra data charges
+Male,59,No,19.35,1099.6,Yes,1,83,5084,Price too high
+Female,16,Fiber optic,94.45,1511.2,Yes,1,81,3810,Product dissatisfaction
+Male,1,DSL,24.8,24.8,Yes,1,73,5087,Service dissatisfaction
+Male,1,Fiber optic,70.6,70.6,Yes,1,69,3338,Lack of self-service on Website
+Male,5,Fiber optic,85.4,401.1,Yes,1,80,3676,Network reliability
+Female,52,Fiber optic,105.05,5624.85,Yes,1,65,4839,Don't know
+Male,18,Fiber optic,95.15,1779.95,Yes,1,68,4643,Don't know
+Male,1,Fiber optic,70,70,Yes,1,97,4094,Don't know
+Male,8,Fiber optic,74.5,606.55,Yes,1,80,4345,Poor expertise of online support
+Male,10,DSL,44.85,435.4,Yes,1,83,4061,Poor expertise of phone support
+Male,24,Fiber optic,76.1,1712.7,Yes,1,98,2018,Price too high
+Female,1,Fiber optic,73.6,73.6,Yes,1,80,2565,Product dissatisfaction
+Female,4,Fiber optic,95.45,396.1,Yes,1,85,3677,Service dissatisfaction
+Male,32,Fiber optic,74.9,2303.35,Yes,1,69,4105,Lack of self-service on Website
+Male,5,Fiber optic,80.6,415.55,Yes,1,69,5715,Network reliability
+Female,38,DSL,80.3,3058.65,Yes,1,81,2071,Limited range of services
+Male,24,Fiber optic,93.15,2231.05,Yes,1,73,2212,Lack of affordable download/upload speed
+Female,54,DSL,82.45,4350.1,Yes,1,83,4149,Long distance charges
+Female,2,Fiber optic,70.35,139.05,Yes,1,73,2671,Extra data charges
+Female,7,Fiber optic,73.85,511.25,Yes,1,67,2473,Price too high
+Female,2,Fiber optic,80.6,155.8,Yes,1,92,2683,Product dissatisfaction
+Male,68,DSL,75.8,5293.95,Yes,1,81,4903,Service dissatisfaction
+Female,43,Fiber optic,104.6,4759.85,Yes,1,91,5250,Lack of self-service on Website
+Male,63,Fiber optic,103.4,6603,Yes,1,98,4352,Network reliability
+Female,2,Fiber optic,90.4,168.2,Yes,1,76,4157,Don't know
+Male,4,Fiber optic,84.8,371.9,Yes,1,73,4939,Don't know
+Female,21,DSL,41.9,840.1,Yes,1,97,4778,Don't know
+Female,10,Fiber optic,80.25,846,Yes,1,85,3598,Poor expertise of online support
+Male,27,DSL,30.75,805.1,Yes,1,91,2927,Poor expertise of phone support
+Male,5,Fiber optic,96.5,492.55,Yes,1,98,5383,Price too high
+Male,2,Fiber optic,85.65,181.5,Yes,1,73,3878,Product dissatisfaction
+Female,25,Fiber optic,104.95,2566.5,Yes,1,66,3642,Service dissatisfaction
+Male,1,DSL,50.65,50.65,Yes,1,76,2431,Don't know
+Male,1,Fiber optic,90.85,90.85,Yes,1,81,3424,Network reliability
+Male,11,No,19.95,214.75,Yes,1,80,5888,Limited range of services
+Female,55,Fiber optic,85.45,4874.7,Yes,1,100,5502,Lack of affordable download/upload speed
+Female,34,Fiber optic,73.95,2524.45,Yes,1,94,5795,Long distance charges
+Male,69,Fiber optic,99.45,7007.6,Yes,1,80,4020,Extra data charges
+Female,1,No,19.9,19.9,Yes,1,92,3351,Price too high
+Male,1,No,19.6,19.6,Yes,1,95,3448,Product dissatisfaction
+Male,3,Fiber optic,81.35,233.7,Yes,1,73,2818,Service dissatisfaction
+Female,22,Fiber optic,83.3,1845.9,Yes,1,88,3804,Lack of self-service on Website
+Female,1,Fiber optic,75.3,75.3,Yes,1,67,4902,Network reliability
+Female,61,No,19.4,1182.55,Yes,1,82,4221,Don't know
+Male,12,DSL,45.4,518.9,Yes,1,68,2887,Don't know
+Female,60,Fiber optic,105.9,6396.45,Yes,1,84,4105,Don't know
+Female,1,Fiber optic,69.55,69.55,Yes,1,73,2792,Competitor had better devices
+Female,28,Fiber optic,81.05,2227.1,Yes,1,98,5201,Competitor had better devices
+Male,4,Fiber optic,101.15,385.9,Yes,1,84,4417,Competitor had better devices
+Male,7,Fiber optic,99.8,673.25,Yes,1,98,2031,Competitor had better devices
+Female,13,DSL,55.95,734.35,Yes,1,91,4498,Competitor had better devices
+Male,1,DSL,55,55,Yes,1,71,4877,Competitor had better devices
+Female,1,Fiber optic,74.7,74.7,Yes,1,80,5980,Competitor had better devices
+Male,24,Fiber optic,80.25,1861.5,Yes,1,77,4418,Competitor had better devices
+Male,5,Fiber optic,96.1,453.4,Yes,1,66,4192,Competitor had better devices
+Female,15,Fiber optic,69,994.8,Yes,1,73,5671,Competitor had better devices
+Female,48,DSL,45.3,2145,Yes,1,65,4926,Price too high
+Female,8,Fiber optic,83.55,680.05,Yes,1,65,2879,Product dissatisfaction
+Male,1,Fiber optic,74.35,74.35,Yes,1,93,2814,Service dissatisfaction
+Female,2,Fiber optic,74.4,139.4,Yes,1,77,4263,Lack of self-service on Website
+Male,22,DSL,43.75,903.6,Yes,1,66,3099,Network reliability
+Female,5,DSL,28.45,131.05,Yes,1,89,4099,Limited range of services
+Female,12,Fiber optic,99.7,1238.45,Yes,1,76,2538,Lack of affordable download/upload speed
+Female,20,Fiber optic,94.1,1782.4,Yes,1,87,2666,Long distance charges
+Male,2,Fiber optic,94.2,167.5,Yes,1,72,3715,Don't know
+Female,6,Fiber optic,80.5,502.85,Yes,1,98,5032,Price too high
+Female,5,Fiber optic,74.35,334.8,Yes,1,82,5273,Product dissatisfaction
+Male,40,Fiber optic,104.8,4131.95,Yes,1,88,3492,Service dissatisfaction
+Female,27,Fiber optic,75.2,1929.35,Yes,1,99,4517,Lack of self-service on Website
+Female,23,Fiber optic,75.6,1758.6,Yes,1,81,2115,Network reliability
+Male,34,Fiber optic,100.05,3480,Yes,1,72,2568,Don't know
+Female,1,Fiber optic,85,85,Yes,1,80,5679,Don't know
+Male,10,Fiber optic,86.05,834.1,Yes,1,85,2966,Don't know
+Male,13,DSL,45.55,597,Yes,1,74,4856,Poor expertise of online support
+Male,39,Fiber optic,86.3,3266,Yes,1,98,3364,Poor expertise of phone support
+Male,32,Fiber optic,80.35,2596.15,Yes,1,92,5974,Competitor had better devices
+Female,35,Fiber optic,100.25,3527.6,Yes,1,72,2744,Competitor offered higher download speeds
+Male,56,Fiber optic,100.3,5614.45,Yes,1,67,5170,Competitor offered more data
+Female,12,No,19,233.55,Yes,1,72,3535,Competitor made better offer
+Female,1,Fiber optic,75.3,75.3,Yes,1,87,3244,Competitor had better devices
+Female,4,Fiber optic,89.2,346.2,Yes,1,74,5808,Competitor had better devices
+Female,1,Fiber optic,85.7,85.7,Yes,1,66,4880,Competitor offered higher download speeds
+Female,12,DSL,61.65,713.75,Yes,1,67,5670,Competitor offered higher download speeds
+Female,65,Fiber optic,105.25,6786.4,Yes,1,91,4196,Competitor offered higher download speeds
+Male,9,DSL,29.95,248.95,Yes,1,83,2573,Competitor offered more data
+Female,9,DSL,65,663.05,Yes,1,76,3983,Competitor offered more data
+Female,7,No,20,137.6,Yes,1,100,4479,Competitor offered more data
+Male,49,Fiber optic,90.05,4547.25,Yes,1,96,5059,Competitor made better offer
+Male,43,Fiber optic,110.75,4687.9,Yes,1,65,2728,Competitor made better offer
+Female,65,Fiber optic,105.5,6985.65,Yes,1,89,5720,Competitor had better devices
+Male,56,Fiber optic,104.55,5794.65,Yes,1,91,6268,Competitor offered higher download speeds
+Male,10,Fiber optic,85.25,855.3,Yes,1,75,3573,Competitor offered more data
+Female,43,DSL,56.15,2499.3,Yes,1,65,2152,Don't know
+Male,1,Fiber optic,89.55,89.55,Yes,1,99,4996,Competitor had better devices
+Male,20,Fiber optic,94.55,1899.65,Yes,1,84,5604,Competitor had better devices
+Male,1,DSL,45.7,45.7,Yes,1,95,2295,Competitor offered higher download speeds
+Female,2,Fiber optic,89.5,161.5,Yes,1,80,2065,Competitor offered higher download speeds
+Female,3,Fiber optic,69.55,222.3,Yes,1,87,2876,Competitor offered higher download speeds
+Female,1,Fiber optic,74.6,74.6,Yes,1,94,3860,Competitor offered more data
+Female,8,No,19.65,164.3,Yes,1,83,5432,Competitor offered more data
+Male,2,No,19.85,35.9,Yes,1,68,2362,Competitor offered more data
+Female,4,DSL,24.25,96.05,Yes,1,93,2038,Competitor made better offer
+Female,2,Fiber optic,69.65,145.15,Yes,1,80,2323,Competitor made better offer
+Female,4,DSL,45.65,191.05,Yes,1,78,2864,Competitor had better devices
+Female,1,Fiber optic,75.05,75.05,Yes,1,78,4838,Competitor offered higher download speeds
+Male,52,DSL,49.15,2550.9,Yes,1,90,5597,Competitor offered more data
+Female,2,DSL,34.7,62.25,Yes,1,65,3146,Competitor made better offer
+Male,1,Fiber optic,80,80,Yes,1,88,2046,Competitor had better devices
+Male,2,DSL,49.25,91.1,Yes,1,89,3475,Competitor had better devices
+Female,3,Fiber optic,75.1,270.7,Yes,1,69,4965,Competitor offered higher download speeds
+Male,3,DSL,50.15,168.15,Yes,1,86,3273,Competitor offered higher download speeds
+Female,25,Fiber optic,79.85,2015.35,Yes,1,85,4535,Competitor offered higher download speeds
+Male,1,No,19.55,19.55,Yes,1,66,3556,Competitor offered more data
+Female,4,Fiber optic,85.95,381.3,Yes,1,74,5640,Competitor offered more data
+Male,3,DSL,45.35,141.5,Yes,1,67,2450,Competitor offered more data
+Male,33,Fiber optic,94.5,3105.55,Yes,1,96,4333,Competitor made better offer
+Female,30,Fiber optic,91.7,2758.15,Yes,1,97,2482,Competitor made better offer
+Female,45,Fiber optic,87.25,3941.7,Yes,1,73,5269,Competitor had better devices
+Male,10,Fiber optic,98.55,1008.55,Yes,1,80,3658,Competitor offered higher download speeds
+Male,20,Fiber optic,98.55,1842.8,Yes,1,92,5444,Competitor offered more data
+Female,15,Fiber optic,85.9,1269.55,Yes,1,96,3579,Don't know
+Female,22,Fiber optic,89.25,1907.85,Yes,1,82,3161,Competitor had better devices
+Male,3,Fiber optic,70.3,208.85,Yes,1,66,3038,Competitor had better devices
+Male,15,Fiber optic,93.35,1444.65,Yes,1,77,5264,Competitor offered higher download speeds
+Female,1,No,19.9,19.9,Yes,1,100,4248,Competitor offered higher download speeds
+Female,5,Fiber optic,88.9,454.15,Yes,1,79,4356,Competitor offered higher download speeds
+Male,33,Fiber optic,95.8,3036.75,Yes,1,76,4161,Competitor offered more data
+Male,2,Fiber optic,82,184.65,Yes,1,97,3051,Competitor offered more data
+Male,2,DSL,45.35,89.5,Yes,1,81,3478,Competitor offered more data
+Female,1,DSL,52.2,52.2,Yes,1,71,4138,Competitor made better offer
+Female,46,Fiber optic,110,4874.8,Yes,1,81,2403,Competitor made better offer
+Male,62,Fiber optic,96.75,6125.4,Yes,1,92,5016,Attitude of service provider
+Female,10,Fiber optic,98.5,1058.25,Yes,1,74,5184,Attitude of service provider
+Male,6,Fiber optic,85.35,489.45,Yes,1,75,4694,Attitude of service provider
+Male,40,Fiber optic,101.3,4113.1,Yes,1,70,2576,Attitude of support person
+Male,1,Fiber optic,69.55,69.55,Yes,1,76,3042,Attitude of support person
+Male,58,Fiber optic,103.25,6017.65,Yes,1,74,6105,Attitude of support person
+Male,70,Fiber optic,104,7250.15,Yes,1,80,4544,Attitude of service provider
+Female,2,Fiber optic,86.2,178.7,Yes,1,95,2969,Attitude of service provider
+Male,21,Fiber optic,111.2,2317.1,Yes,1,89,4123,Attitude of service provider
+Female,16,Fiber optic,89.45,1430.25,Yes,1,73,3696,Attitude of support person
+Male,7,Fiber optic,95.6,644.35,Yes,1,83,3265,Competitor made better offer
+Male,60,Fiber optic,90.95,5453.4,Yes,1,76,4111,Moved
+Female,50,Fiber optic,108.55,5610.7,Yes,1,82,4274,Moved
+Female,4,Fiber optic,78.85,292.8,Yes,1,72,5301,Moved
+Male,1,DSL,44.4,44.4,Yes,1,89,3522,Competitor offered higher download speeds
+Female,55,Fiber optic,100,5509.3,Yes,1,83,5679,Competitor offered higher download speeds
+Female,12,No,19.8,229.6,Yes,1,94,2653,Competitor offered higher download speeds
+Male,1,Fiber optic,89.9,89.9,Yes,1,80,5951,Don't know
+Female,62,Fiber optic,100.15,6413.65,Yes,1,91,5600,Competitor offered higher download speeds
+Male,1,DSL,50.8,50.8,Yes,1,85,3718,Competitor offered higher download speeds
+Male,20,Fiber optic,73.65,1463.5,Yes,1,95,5849,Competitor offered higher download speeds
+Female,3,Fiber optic,95.1,307.4,Yes,1,77,5861,Competitor offered higher download speeds
+Male,22,Fiber optic,94.65,2104.55,Yes,1,85,3665,Competitor offered higher download speeds
+Male,4,Fiber optic,80.6,319.15,Yes,1,86,3080,Competitor offered more data
+Male,59,Fiber optic,85.55,5084.65,Yes,1,80,6304,Competitor offered more data
+Female,60,DSL,50.8,3027.4,Yes,1,67,4941,Competitor offered more data
+Female,15,Fiber optic,105.1,1582.75,Yes,1,84,2122,Competitor made better offer
+Male,10,Fiber optic,110.1,1043.3,Yes,1,76,5803,Competitor made better offer
+Female,6,Fiber optic,83.9,497.55,Yes,1,97,3962,Price too high
+Female,63,Fiber optic,100.55,6215.35,Yes,1,79,5413,Price too high
+Male,50,Fiber optic,103.85,5017.9,Yes,1,100,5812,Price too high
+Female,1,DSL,24.6,24.6,Yes,1,76,5768,Price too high
+Female,12,Fiber optic,98.9,1120.95,Yes,1,71,5559,Price too high
+Female,9,Fiber optic,98.3,923.5,Yes,1,81,2954,Price too high
+Male,17,Fiber optic,93.85,1625.65,Yes,1,93,4940,Price too high
+Male,9,Fiber optic,100.5,918.6,Yes,1,70,4038,Price too high
+Male,10,Fiber optic,72.85,688.65,Yes,1,99,3189,Price too high
+Male,1,Fiber optic,73.55,73.55,Yes,1,94,4369,Price too high
+Female,3,Fiber optic,79.4,205.05,Yes,1,91,3501,Product dissatisfaction
+Female,13,Fiber optic,81.15,952.3,Yes,1,79,4806,Service dissatisfaction
+Female,4,Fiber optic,84.6,360.1,Yes,1,83,2467,Lack of self-service on Website
+Female,6,Fiber optic,79.05,434.5,Yes,1,99,3263,Network reliability
+Female,3,Fiber optic,74.4,215.8,Yes,1,97,2054,Don't know
+Male,35,Fiber optic,99.05,3395.8,Yes,1,82,2074,Don't know
+Male,2,DSL,44.95,85.15,Yes,1,84,5900,Don't know
+Male,1,DSL,44.7,44.7,Yes,1,74,3700,Don't know
+Male,1,DSL,45.7,45.7,Yes,1,72,3571,Poor expertise of phone support
+Male,8,Fiber optic,100.3,832.35,Yes,1,74,5084,Competitor had better devices
+Male,7,No,19.25,112.3,Yes,1,82,4489,Competitor offered higher download speeds
+Female,2,Fiber optic,96,174.8,Yes,1,83,3391,Competitor offered more data
+Female,1,Fiber optic,90.55,90.55,Yes,1,72,2627,Competitor made better offer
+Male,44,DSL,30.35,1359.7,Yes,1,96,4829,Competitor had better devices
+Male,71,Fiber optic,108.05,7532.15,Yes,1,81,5200,Competitor had better devices
+Male,1,Fiber optic,69.9,69.9,Yes,1,84,5367,Competitor offered higher download speeds
+Male,62,Fiber optic,103.75,6383.35,Yes,1,91,5052,Competitor offered higher download speeds
+Male,1,Fiber optic,86.6,86.6,Yes,1,93,5228,Competitor offered higher download speeds
+Female,33,Fiber optic,80.6,2656.5,Yes,1,72,3601,Competitor offered more data
+Female,35,Fiber optic,85.3,2917.5,Yes,1,88,2455,Competitor offered more data
+Female,34,Fiber optic,70,2416.1,Yes,1,93,2318,Competitor offered more data
+Female,4,Fiber optic,94.3,424.45,Yes,1,99,5419,Competitor made better offer
+Female,7,Fiber optic,95.35,660.9,Yes,1,92,3077,Competitor made better offer
+Male,27,Fiber optic,75.5,1893.95,Yes,1,65,2377,Competitor had better devices
+Female,18,Fiber optic,90.1,1612.75,Yes,1,80,4260,Competitor offered higher download speeds
+Female,2,Fiber optic,68.95,119.75,Yes,1,84,5225,Competitor offered more data
+Male,32,Fiber optic,99.55,3204.65,Yes,1,71,5026,Competitor made better offer
+Male,18,DSL,57.45,990.85,Yes,1,84,2989,Competitor had better devices
+Male,12,DSL,53.65,696.35,Yes,1,78,2595,Competitor had better devices
+Male,8,Fiber optic,100.6,819.4,Yes,1,90,5906,Competitor offered higher download speeds
+Male,26,Fiber optic,83.75,2070.6,Yes,1,84,2404,Competitor offered higher download speeds
+Female,3,Fiber optic,88.3,273.75,Yes,1,68,4486,Competitor offered higher download speeds
+Female,8,Fiber optic,92.1,729.95,Yes,1,81,5662,Competitor offered more data
+Male,38,Fiber optic,79.45,3013.05,Yes,1,85,2405,Competitor offered more data
+Male,14,Fiber optic,90.45,1266.1,Yes,1,96,4777,Competitor offered more data
+Male,32,Fiber optic,69.75,2347.9,Yes,1,96,2356,Don't know
+Female,1,No,19.65,19.65,Yes,1,99,5881,Competitor made better offer
+Male,12,DSL,43.65,526.95,Yes,1,74,2437,Competitor had better devices
+Female,5,DSL,39.5,210.75,Yes,1,93,2863,Competitor offered higher download speeds
+Male,40,Fiber optic,97.1,3706.95,Yes,1,67,3099,Competitor offered more data
+Female,5,Fiber optic,80,412.5,Yes,1,97,3937,Competitor made better offer
+Female,10,Fiber optic,84.7,832.05,Yes,1,69,5686,Competitor had better devices
+Male,2,Fiber optic,89.55,185.55,Yes,1,73,3851,Competitor had better devices
+Male,23,Fiber optic,90.6,1943.2,Yes,1,82,4359,Competitor offered higher download speeds
+Female,23,Fiber optic,90.05,2169.8,Yes,1,67,4650,Competitor offered higher download speeds
+Male,49,Fiber optic,99.05,4853.75,Yes,1,100,5157,Competitor offered higher download speeds
+Female,2,Fiber optic,69.75,144.55,Yes,1,68,5667,Competitor offered more data
+Female,2,DSL,49.05,91.1,Yes,1,98,2960,Competitor offered more data
+Male,7,Fiber optic,98.05,713,Yes,1,86,2561,Competitor offered more data
+Female,41,Fiber optic,114.5,4527.45,Yes,1,80,3038,Competitor made better offer
+Male,2,Fiber optic,80.95,171.15,Yes,1,65,3533,Competitor made better offer
+Female,13,Fiber optic,74.3,940.35,Yes,1,97,2995,Competitor had better devices
+Female,11,Fiber optic,89.7,1047.7,Yes,1,89,2202,Competitor offered higher download speeds
+Male,17,Fiber optic,100.45,1622.45,Yes,1,87,5508,Competitor offered more data
+Male,25,Fiber optic,90.4,2178.6,Yes,1,100,5801,Competitor made better offer
+Male,3,DSL,56.15,168.15,Yes,1,83,2539,Competitor had better devices
+Female,4,Fiber optic,94.4,387.2,Yes,1,74,4249,Competitor had better devices
+Female,37,Fiber optic,78.95,2839.65,Yes,1,97,3982,Competitor offered higher download speeds
+Female,19,DSL,44.85,893.55,Yes,1,72,5182,Competitor offered higher download speeds
+Male,39,Fiber optic,105.65,4284.8,Yes,1,96,4687,Competitor offered higher download speeds
+Male,7,Fiber optic,74.65,544.55,Yes,1,75,3331,Competitor offered more data
+Female,14,DSL,64.7,941,Yes,1,86,4049,Competitor offered more data
+Female,11,Fiber optic,104.05,1133.65,Yes,1,82,4553,Competitor offered more data
+Male,1,DSL,35.55,35.55,Yes,1,71,3958,Don't know
+Female,2,Fiber optic,95.15,196.9,Yes,1,82,2414,Competitor made better offer
+Male,13,Fiber optic,96.65,1162.85,Yes,1,75,5295,Attitude of service provider
+Female,3,Fiber optic,80.4,224.05,Yes,1,89,3834,Attitude of service provider
+Male,1,DSL,31.35,31.35,Yes,1,85,3605,Attitude of service provider
+Female,12,Fiber optic,89.75,1052.4,Yes,1,97,5671,Attitude of support person
+Male,60,Fiber optic,94.4,5610.25,Yes,1,99,4990,Attitude of support person
+Male,1,No,19.85,19.85,Yes,1,66,3874,Attitude of support person
+Female,6,Fiber optic,109.9,669.45,Yes,1,69,5750,Attitude of service provider
+Male,15,Fiber optic,101.35,1553.95,Yes,1,99,3025,Attitude of service provider
+Male,21,DSL,60.05,1236.15,Yes,1,70,4716,Attitude of service provider
+Female,1,DSL,60.15,60.15,Yes,1,91,4611,Attitude of support person
+Male,7,Fiber optic,90.45,593.45,Yes,1,98,5356,Competitor made better offer
+Male,53,Fiber optic,94.25,4867.95,Yes,1,96,5414,Moved
+Male,1,Fiber optic,74.9,74.9,Yes,1,84,2548,Moved
+Female,1,Fiber optic,80.25,80.25,Yes,1,69,2502,Moved
+Male,17,Fiber optic,69,1149.65,Yes,1,77,3368,Competitor offered higher download speeds
+Female,11,DSL,66.35,740.8,Yes,1,91,2860,Competitor offered higher download speeds
+Male,19,Fiber optic,86,1532.45,Yes,1,98,4857,Competitor offered higher download speeds
+Female,3,Fiber optic,80.3,250.05,Yes,1,72,3212,Competitor offered higher download speeds
+Male,24,Fiber optic,90.55,2282.55,Yes,1,67,5927,Don't know
+Female,2,Fiber optic,75.9,143.35,Yes,1,86,2101,Don't know
+Male,1,DSL,45.85,45.85,Yes,1,73,3706,Don't know
+Female,16,DSL,49.95,810.2,Yes,1,78,4840,Don't know
+Male,34,Fiber optic,78.3,2564.3,Yes,1,77,2777,Don't know
+Male,3,Fiber optic,76.95,228.4,Yes,1,92,4428,Don't know
+Female,16,Fiber optic,96.15,1529.2,Yes,1,96,5913,Don't know
+Male,1,DSL,45.3,45.3,Yes,1,66,4568,Don't know
+Female,15,No,19.4,289.3,Yes,1,87,5379,Don't know
+Female,11,Fiber optic,90.15,987.95,Yes,1,66,5250,Competitor offered higher download speeds
+Male,1,DSL,45.05,45.05,Yes,1,98,4094,Network reliability
+Female,1,Fiber optic,75.8,75.8,Yes,1,70,3940,Network reliability
+Female,7,Fiber optic,79.3,523.15,Yes,1,69,3830,Network reliability
+Female,2,DSL,30.9,59.05,Yes,1,98,2860,Network reliability
+Female,46,Fiber optic,95.25,4424.2,Yes,1,90,3180,Network reliability
+Female,68,Fiber optic,89.6,6127.6,Yes,1,69,5651,Network reliability
+Male,59,Fiber optic,110.15,6448.05,Yes,1,97,4601,Network reliability
+Male,7,Fiber optic,89.5,676.7,Yes,1,89,3077,Network reliability
+Male,8,Fiber optic,75,632.95,Yes,1,80,2587,Network reliability
+Male,6,DSL,44.75,270.95,Yes,1,78,2087,Network reliability
+Female,11,DSL,44.05,483.7,Yes,1,84,3200,Network reliability
+Male,15,Fiber optic,85.6,1345.55,Yes,1,83,4981,Network reliability
+Female,70,Fiber optic,115.55,8127.6,Yes,1,87,4838,Network reliability
+Male,16,Fiber optic,86.6,1281,Yes,1,81,2508,Network reliability
+Female,18,Fiber optic,85.2,1553.9,Yes,1,77,3326,Don't know
+Female,34,Fiber optic,97.65,3207.55,Yes,1,87,3979,Don't know
+Male,47,Fiber optic,109.55,5124.55,Yes,1,90,5863,Don't know
+Female,39,Fiber optic,89.55,3474.45,Yes,1,65,3849,Poor expertise of online support
+Male,1,No,19.45,19.45,Yes,1,78,5687,Poor expertise of phone support
+Female,4,No,20.35,76.35,Yes,1,81,4133,Competitor had better devices
+Female,1,Fiber optic,69.25,69.25,Yes,1,75,4371,Competitor offered higher download speeds
+Male,59,Fiber optic,99.5,5961.1,Yes,1,76,6098,Competitor offered more data
+Female,1,DSL,25.2,25.2,Yes,1,67,5688,Competitor made better offer
+Male,2,DSL,45,96.45,Yes,1,93,5704,Competitor had better devices
+Male,1,No,20.15,20.15,Yes,1,70,4103,Competitor had better devices
+Male,66,Fiber optic,105,7133.25,Yes,1,96,5723,Competitor offered higher download speeds
+Male,3,DSL,54.7,169.45,Yes,1,66,3335,Competitor offered higher download speeds
+Female,14,Fiber optic,87.25,1258.6,Yes,1,78,4786,Competitor offered higher download speeds
+Male,10,Fiber optic,79.95,857.2,Yes,1,68,5640,Competitor offered more data
+Female,18,Fiber optic,88.35,1639.3,Yes,1,96,5727,Competitor offered more data
+Female,9,Fiber optic,94.75,889.9,Yes,1,83,2893,Competitor offered more data
+Female,13,Fiber optic,95.05,1290,Yes,1,97,2230,Competitor made better offer
+Male,4,Fiber optic,78.45,330.05,Yes,1,67,5048,Competitor made better offer
+Male,4,Fiber optic,70.2,237.95,Yes,1,92,5094,Competitor had better devices
+Male,59,DSL,41.05,2452.7,Yes,1,70,4324,Competitor offered higher download speeds
+Male,10,Fiber optic,85.6,813.85,Yes,1,70,5146,Competitor offered more data
+Female,1,Fiber optic,79.2,79.2,Yes,1,76,4363,Competitor made better offer
+Male,5,DSL,70,347.4,Yes,1,77,2673,Competitor had better devices
+Female,1,DSL,49.95,49.95,Yes,1,71,2041,Competitor had better devices
+Female,22,Fiber optic,69.25,1554,Yes,1,85,2159,Competitor offered higher download speeds
+Female,34,Fiber optic,94.25,3217.55,Yes,1,88,3369,Competitor offered higher download speeds
+Male,41,DSL,73,3001.2,Yes,1,86,2041,Competitor offered higher download speeds
+Female,64,Fiber optic,100.05,6254.2,Yes,1,69,5452,Competitor offered more data
+Female,4,Fiber optic,99.8,442.85,Yes,1,89,2268,Competitor offered more data
+Female,18,DSL,35,553,Yes,1,76,2649,Competitor offered more data
+Female,1,Fiber optic,76,76,Yes,1,72,2567,Competitor made better offer
+Female,2,Fiber optic,93.85,170.85,Yes,1,72,4193,Don't know
+Female,15,Fiber optic,84.3,1308.4,Yes,1,86,4003,Competitor had better devices
+Male,9,Fiber optic,84.4,732.5,Yes,1,83,5745,Competitor offered higher download speeds
+Male,15,Fiber optic,101.1,1504.05,Yes,1,97,2055,Competitor offered more data
+Male,1,DSL,50.45,50.45,Yes,1,68,2928,Competitor made better offer
+Male,12,Fiber optic,99.95,1132.75,Yes,1,80,5598,Competitor had better devices
+Female,2,Fiber optic,91.4,193.6,Yes,1,80,5100,Competitor had better devices
+Female,5,Fiber optic,75.55,349.65,Yes,1,97,4028,Competitor offered higher download speeds
+Male,4,Fiber optic,80.8,332.45,Yes,1,72,5436,Competitor offered higher download speeds
+Female,16,Fiber optic,100,1534.75,Yes,1,68,3794,Competitor offered higher download speeds
+Male,1,No,20.55,20.55,Yes,1,87,5636,Competitor offered more data
+Male,5,Fiber optic,85.3,424.15,Yes,1,81,2264,Competitor offered more data
+Female,4,Fiber optic,70.4,281,Yes,1,88,4494,Competitor offered more data
+Male,37,Fiber optic,98.8,3475.55,Yes,1,82,3066,Competitor made better offer
+Male,13,Fiber optic,74.4,896.75,Yes,1,89,3687,Competitor made better offer
+Female,24,Fiber optic,98.75,2407.3,Yes,1,85,4016,Competitor had better devices
+Male,61,Fiber optic,106,6547.7,Yes,1,92,4334,Competitor offered higher download speeds
+Male,41,Fiber optic,104.7,4346.4,Yes,1,84,3316,Competitor offered more data
+Male,22,Fiber optic,96.7,2082.95,Yes,1,93,4458,Competitor made better offer
+Female,2,DSL,55.05,102.75,Yes,1,81,5855,Competitor had better devices
+Male,19,Fiber optic,88.2,1775.8,Yes,1,69,5683,Competitor had better devices
+Female,8,No,19.75,145,Yes,1,89,2247,Competitor offered higher download speeds
+Male,15,Fiber optic,75.65,1146.65,Yes,1,96,2099,Competitor offered higher download speeds
+Male,1,Fiber optic,74.7,74.7,Yes,1,88,3348,Competitor offered higher download speeds
+Male,17,Fiber optic,76.65,1313.55,Yes,1,87,3182,Competitor offered more data
+Female,1,DSL,25.8,25.8,Yes,1,97,3884,Competitor offered more data
+Female,2,DSL,42.6,72.4,Yes,1,79,4648,Competitor offered more data
+Female,29,DSL,68.85,1970.5,Yes,1,79,5449,Competitor made better offer
+Male,2,Fiber optic,90,190.05,Yes,1,99,3902,Competitor made better offer
+Female,14,Fiber optic,75.35,1025.95,Yes,1,71,4995,Attitude of service provider
+Male,8,Fiber optic,100.85,819.55,Yes,1,97,3849,Attitude of service provider
+Female,5,Fiber optic,69.95,330.15,Yes,1,81,2969,Attitude of service provider
+Female,63,Fiber optic,107.5,6873.75,Yes,1,96,6144,Attitude of support person
+Male,1,DSL,45.85,45.85,Yes,1,94,5930,Attitude of support person
+Female,53,Fiber optic,106.1,5769.75,Yes,1,94,4471,Attitude of support person
+Female,1,Fiber optic,91.7,91.7,Yes,1,71,4319,Attitude of service provider
+Female,16,Fiber optic,95.6,1555.65,Yes,1,96,5915,Attitude of service provider
+Male,1,Fiber optic,74.95,74.95,Yes,1,82,2591,Attitude of service provider
+Male,10,Fiber optic,95.35,898.35,Yes,1,75,5353,Attitude of support person
+Female,3,DSL,45,127.1,Yes,1,77,4145,Competitor made better offer
+Male,66,Fiber optic,99.5,6710.5,Yes,1,73,4001,Moved
+Female,17,Fiber optic,98.6,1704.95,Yes,1,91,5160,Moved
+Female,7,DSL,59.5,415.95,Yes,1,91,4661,Moved
+Male,12,Fiber optic,80.45,950.2,Yes,1,69,5374,Competitor made better offer
+Female,42,Fiber optic,77.95,3384,Yes,1,82,5396,Competitor made better offer
+Male,2,Fiber optic,74.7,165.4,Yes,1,81,2803,Competitor made better offer
+Male,1,Fiber optic,88.8,88.8,Yes,1,91,3106,Competitor made better offer
+Male,30,Fiber optic,90.25,2755.35,Yes,1,84,5654,Competitor made better offer
+Female,15,DSL,64.65,994.55,Yes,1,89,4780,Competitor made better offer
+Male,13,Fiber optic,89.05,1169.35,Yes,1,82,3861,Competitor made better offer
+Male,67,Fiber optic,87.4,5918.8,Yes,1,65,4421,Competitor made better offer
+Female,23,Fiber optic,94.75,2293.6,Yes,1,95,2740,Competitor made better offer
+Female,35,Fiber optic,86.45,3029.1,Yes,1,68,5874,Competitor made better offer
+Female,56,Fiber optic,98.25,5508.35,Yes,1,97,4886,Competitor made better offer
+Female,9,Fiber optic,75.75,655.9,Yes,1,96,5105,Competitor made better offer
+Female,17,Fiber optic,85.35,1463.45,Yes,1,70,3209,Competitor made better offer
+Male,48,Fiber optic,106.1,5082.8,Yes,1,69,5898,Competitor made better offer
+Male,17,DSL,45.05,770.6,Yes,1,65,3797,Extra data charges
+Female,34,Fiber optic,109.8,3587.25,Yes,1,78,3410,Extra data charges
+Female,42,Fiber optic,84.65,3541.35,Yes,1,76,4871,Extra data charges
+Male,11,Fiber optic,79.5,868.5,Yes,1,68,3469,Extra data charges
+Female,1,Fiber optic,85.8,85.8,Yes,1,99,2850,Extra data charges
+Male,1,Fiber optic,79.1,79.1,Yes,1,84,5001,Extra data charges
+Female,3,DSL,44.3,134.5,Yes,1,88,4903,Extra data charges
+Male,50,Fiber optic,105.95,5341.8,Yes,1,79,5536,Extra data charges
+Male,5,Fiber optic,69.75,324.6,Yes,1,99,3965,Extra data charges
+Male,51,Fiber optic,94.65,4812.75,Yes,1,100,4747,Extra data charges
+Female,46,Fiber optic,96.05,4399.5,Yes,1,77,2712,Extra data charges
+Male,1,DSL,50.15,50.15,Yes,1,98,3438,Extra data charges
+Female,41,Fiber optic,113.6,4594.95,Yes,1,96,4963,Extra data charges
+Female,29,Fiber optic,78.9,2384.15,Yes,1,90,3249,Extra data charges
+Female,26,DSL,60.05,1616.15,Yes,1,71,2039,Don't know
+Female,1,DSL,34.7,34.7,Yes,1,81,4476,Don't know
+Male,3,Fiber optic,85.3,264.8,Yes,1,67,4934,Don't know
+Female,66,Fiber optic,102.45,6615.15,Yes,1,82,4688,Attitude of support person
+Female,21,Fiber optic,104.4,2200.25,Yes,1,67,5570,Attitude of support person
+Male,1,Fiber optic,99.75,99.75,Yes,1,93,4214,Attitude of support person
+Male,4,DSL,74.4,299.7,Yes,1,69,3633,Attitude of support person
+Female,9,Fiber optic,74.25,639.65,Yes,1,76,5393,Attitude of support person
+Male,1,DSL,59.85,59.85,Yes,1,71,4017,Attitude of support person
+Female,1,Fiber optic,69.6,69.6,Yes,1,96,3438,Attitude of support person
+Male,9,DSL,45.4,418.8,Yes,1,81,5028,Attitude of support person
+Female,1,No,19.5,19.5,Yes,1,77,5211,Attitude of support person
+Male,1,Fiber optic,69.9,69.9,Yes,1,88,3349,Attitude of support person
+Female,2,Fiber optic,87.15,183.75,Yes,1,72,4149,Don't know
+Female,3,Fiber optic,84.75,264.85,Yes,1,100,2014,Attitude of support person
+Male,14,Fiber optic,89.95,1178.4,Yes,1,97,5463,Attitude of support person
+Female,41,Fiber optic,113.2,4689.5,Yes,1,89,3380,Attitude of support person
+Male,13,Fiber optic,90.5,1201.15,Yes,1,76,5394,Attitude of support person
+Male,2,Fiber optic,79,143.65,Yes,1,92,5239,Attitude of support person
+Female,18,No,20.15,390.85,Yes,1,85,4931,Attitude of support person
+Male,1,Fiber optic,71.65,71.65,Yes,1,93,2377,Attitude of support person
+Female,4,No,20.35,77.5,Yes,1,76,5984,Attitude of support person
+Female,38,Fiber optic,84.25,3264.5,Yes,1,70,2885,Attitude of support person
+Female,12,Fiber optic,78.1,947.3,Yes,1,89,4741,Attitude of support person
+Female,19,Fiber optic,89.65,1761.05,Yes,1,74,3046,Attitude of support person
+Female,10,Fiber optic,98.7,973.25,Yes,1,68,5561,Attitude of support person
+Female,1,Fiber optic,76.35,76.35,Yes,1,67,5613,Attitude of support person
+Female,23,Fiber optic,79.15,1676.95,Yes,1,68,5216,Attitude of support person
+Male,32,Fiber optic,85,2642.05,Yes,1,94,4584,Attitude of support person
+Male,32,Fiber optic,85.3,2661.1,Yes,1,75,2712,Attitude of support person
+Female,31,Fiber optic,86.55,2697.4,Yes,1,74,4198,Attitude of support person
+Male,19,Fiber optic,73.85,1424.5,Yes,1,89,2251,Attitude of support person
+Male,57,DSL,44.85,2572.95,Yes,1,82,5172,Attitude of support person
+Male,1,DSL,45.1,45.1,Yes,1,79,4499,Attitude of support person
+Male,24,Fiber optic,96,2122.45,Yes,1,71,3068,Attitude of support person
+Male,1,No,20.05,20.05,Yes,1,66,4710,Attitude of support person
+Male,65,Fiber optic,108.65,6937.95,Yes,1,79,6120,Attitude of support person
+Male,10,DSL,45.55,402.6,Yes,1,67,4097,Attitude of support person
+Female,2,DSL,35.1,68.75,Yes,1,78,2643,Attitude of support person
+Male,1,DSL,46.2,46.2,Yes,1,76,4167,Attitude of support person
+Female,1,DSL,45.15,45.15,Yes,1,89,5828,Attitude of support person
+Male,1,DSL,43.3,43.3,Yes,1,91,4972,Don't know
+Female,38,DSL,57.15,2250.65,Yes,1,75,3110,Attitude of support person
+Female,19,Fiber optic,73.2,1441.1,Yes,1,97,4718,Attitude of support person
+Male,52,Fiber optic,85.35,4338.6,Yes,1,98,6402,Attitude of support person
+Female,1,DSL,45.95,45.95,Yes,1,69,4888,Attitude of support person
+Female,3,Fiber optic,83.75,247.25,Yes,1,65,4852,Attitude of support person
+Male,1,Fiber optic,70.05,70.05,Yes,1,69,2699,Attitude of support person
+Male,2,Fiber optic,86,165.45,Yes,1,77,4546,Attitude of support person
+Female,35,Fiber optic,100.5,3653.35,Yes,1,81,4745,Attitude of support person
+Female,16,Fiber optic,72.65,1194.3,Yes,1,73,2850,Attitude of support person
+Female,1,No,21,21,Yes,1,90,3753,Attitude of support person
+Female,1,DSL,45.1,45.1,Yes,1,70,2740,Attitude of support person
+Male,30,DSL,50.4,1527.5,Yes,1,83,4795,Attitude of support person
+Female,5,Fiber optic,78.95,378.4,Yes,1,65,4054,Attitude of support person
+Male,56,Fiber optic,94.45,5124.6,Yes,1,96,4830,Attitude of support person
+Female,44,Fiber optic,84.8,3862.55,Yes,1,66,3997,Attitude of support person
+Male,1,DSL,50.9,50.9,Yes,1,83,5111,Attitude of support person
+Male,49,Fiber optic,99.8,4872.45,Yes,1,83,6088,Attitude of support person
+Male,47,Fiber optic,107.35,5118.95,Yes,1,98,3620,Attitude of support person
+Female,31,No,19.55,658.95,Yes,1,67,2687,Attitude of support person
+Female,3,Fiber optic,79.1,246.5,Yes,1,74,5339,Attitude of support person
+Male,8,DSL,25.5,215.2,Yes,1,78,5578,Attitude of support person
+Female,2,Fiber optic,80.75,159.45,Yes,1,87,2176,Attitude of support person
+Male,65,Fiber optic,91.85,5940.85,Yes,1,82,5530,Attitude of support person
+Male,1,Fiber optic,75.35,75.35,Yes,1,90,5284,Attitude of support person
+Male,1,Fiber optic,75.45,75.45,Yes,1,74,5518,Attitude of support person
+Male,24,DSL,49.55,1210.4,Yes,1,80,5005,Attitude of support person
+Male,69,DSL,78.6,5356.45,Yes,1,93,6230,Attitude of support person
+Female,7,Fiber optic,81.1,576.65,Yes,1,87,3238,Don't know
+Male,11,Fiber optic,74.95,825.7,Yes,1,70,2044,Attitude of support person
+Male,1,Fiber optic,93.55,93.55,Yes,1,81,5536,Competitor made better offer
+Female,58,Fiber optic,102.1,5885.4,Yes,1,96,4415,Moved
+Female,14,Fiber optic,90.9,1259,Yes,1,70,5148,Moved
+Female,12,DSL,29.2,309.1,Yes,1,94,3747,Moved
+Female,25,Fiber optic,89.15,2257.75,Yes,1,97,5853,Competitor offered higher download speeds
+Male,58,Fiber optic,108.85,6287.25,Yes,1,91,4739,Competitor offered higher download speeds
+Female,16,Fiber optic,84.75,1350.15,Yes,1,99,5136,Competitor offered higher download speeds
+Female,1,DSL,45.7,45.7,Yes,1,99,3187,Competitor offered higher download speeds
+Female,1,Fiber optic,69.95,69.95,Yes,1,94,3208,Competitor offered higher download speeds
+Female,2,DSL,44.6,97.1,Yes,1,70,5482,Competitor offered higher download speeds
+Male,23,Fiber optic,74.95,1710.45,Yes,1,89,5897,Competitor offered higher download speeds
+Female,57,Fiber optic,95.25,5464.65,Yes,1,93,5789,Competitor offered higher download speeds
+Male,24,Fiber optic,89.85,2165.05,Yes,1,95,2050,Competitor offered higher download speeds
+Female,49,Fiber optic,100.45,4941.8,Yes,1,90,4235,Competitor offered higher download speeds
+Male,5,DSL,47.15,223.15,Yes,1,82,2857,Competitor offered higher download speeds
+Male,2,Fiber optic,80.2,181.1,Yes,1,99,2384,Competitor offered higher download speeds
+Female,4,Fiber optic,87.1,341.45,Yes,1,80,5587,Competitor offered higher download speeds
+Male,5,Fiber optic,75.9,357.75,Yes,1,87,3520,Competitor offered higher download speeds
+Female,47,Fiber optic,98.75,4533.7,Yes,1,80,4622,Product dissatisfaction
+Female,10,Fiber optic,86.45,830.85,Yes,1,80,5699,Product dissatisfaction
+Female,1,DSL,45.3,45.3,Yes,1,69,3049,Product dissatisfaction
+Male,67,Fiber optic,104.1,7040.85,Yes,1,74,4857,Product dissatisfaction
+Female,5,Fiber optic,81,371.65,Yes,1,99,4287,Product dissatisfaction
+Male,67,Fiber optic,90.6,6056.15,Yes,1,73,4394,Product dissatisfaction
+Female,15,Fiber optic,88.15,1390.6,Yes,1,79,2524,Product dissatisfaction
+Male,1,No,20.2,20.2,Yes,1,92,4325,Product dissatisfaction
+Female,26,Fiber optic,90.8,2361.8,Yes,1,75,2641,Don't know
+Male,22,Fiber optic,79.35,1730.35,Yes,1,68,4718,Product dissatisfaction
+Male,21,Fiber optic,96.8,2030.3,Yes,1,87,4317,Product dissatisfaction
+Male,47,Fiber optic,83.35,4065,Yes,1,98,2516,Product dissatisfaction
+Female,2,DSL,49.4,106.55,Yes,1,97,5115,Product dissatisfaction
+Female,22,DSL,79.2,1742.75,Yes,1,91,3410,Product dissatisfaction
+Male,7,DSL,48.7,340.25,Yes,1,98,2984,Don't know
+Female,1,Fiber optic,95.6,95.6,Yes,1,79,4091,Don't know
+Female,49,DSL,59.75,2934.3,Yes,1,78,6006,Don't know
+Female,43,Fiber optic,108.15,4600.7,Yes,1,86,2833,Poor expertise of online support
+Female,1,Fiber optic,71.35,71.35,Yes,1,77,2619,Poor expertise of phone support
+Female,1,No,20.15,20.15,Yes,1,86,4939,Attitude of support person
+Male,1,Fiber optic,69.75,69.75,Yes,1,66,2901,Attitude of support person
+Female,32,Fiber optic,93.2,2931,Yes,1,90,5247,Attitude of service provider
+Male,17,Fiber optic,80.85,1400.85,Yes,1,77,5174,Attitude of service provider
+Female,4,DSL,33.65,137.85,Yes,1,95,2563,Attitude of service provider
+Male,1,Fiber optic,79.95,79.95,Yes,1,99,4815,Attitude of support person
+Female,1,No,19.3,19.3,Yes,1,92,3236,Attitude of support person
+Female,37,Fiber optic,99.2,3754.6,Yes,1,79,3599,Attitude of support person
+Female,8,Fiber optic,85.2,627.4,Yes,1,95,2887,Attitude of service provider
+Female,3,Fiber optic,75.25,242,Yes,1,83,5898,Attitude of service provider
+Male,1,DSL,54.35,54.35,Yes,1,87,4212,Attitude of service provider
+Male,5,DSL,24.95,100.4,Yes,1,79,5865,Attitude of support person
+Male,40,DSL,42.35,1716.45,Yes,1,67,5422,Attitude of support person
+Male,1,Fiber optic,75.3,75.3,Yes,1,100,3596,Attitude of support person
+Male,51,Fiber optic,94.8,4837.6,Yes,1,94,5074,Attitude of service provider
+Female,1,Fiber optic,70.55,70.55,Yes,1,82,2146,Attitude of service provider
+Female,33,Fiber optic,86.15,2745.7,Yes,1,66,3336,Attitude of service provider
+Female,30,Fiber optic,85,2624.25,Yes,1,97,3698,Don't know
+Female,2,Fiber optic,80.55,184.1,Yes,1,69,2856,Attitude of support person
+Female,2,Fiber optic,75.8,160.75,Yes,1,98,5270,Attitude of support person
+Male,29,Fiber optic,98.5,3004.15,Yes,1,72,5137,Attitude of service provider
+Male,13,Fiber optic,95.25,1233.65,Yes,1,97,2982,Attitude of service provider
+Male,7,Fiber optic,74.4,527.9,Yes,1,96,4969,Attitude of service provider
+Female,30,Fiber optic,85.15,2555.9,Yes,1,76,4417,Attitude of support person
+Female,2,Fiber optic,88.55,179.25,Yes,1,80,3685,Attitude of support person
+Male,24,DSL,54.75,1338.15,Yes,1,97,5699,Attitude of support person
+Female,1,Fiber optic,91.3,91.3,Yes,1,71,2371,Attitude of service provider
+Male,1,Fiber optic,79.5,79.5,Yes,1,92,4490,Attitude of service provider
+Male,7,Fiber optic,70.1,467.55,Yes,1,83,3669,Attitude of service provider
+Male,67,Fiber optic,111.3,7482.1,Yes,1,85,4146,Attitude of support person
+Male,57,Fiber optic,95.25,5427.05,Yes,1,86,6259,Attitude of support person
+Female,7,Fiber optic,86.25,587.1,Yes,1,89,3344,Attitude of support person
+Female,1,Fiber optic,100.8,100.8,Yes,1,65,3128,Attitude of service provider
+Female,14,Fiber optic,86.3,1180.95,Yes,1,74,3677,Attitude of service provider
+Female,28,Fiber optic,89.95,2625.55,Yes,1,90,2468,Attitude of service provider
+Male,17,Fiber optic,76.45,1233.4,Yes,1,92,3266,Attitude of support person
+Male,10,Fiber optic,70,740,Yes,1,67,3156,Attitude of support person
+Female,34,DSL,64.4,2088.75,Yes,1,75,5189,Attitude of support person
+Female,1,Fiber optic,102.45,102.45,Yes,1,85,4811,Attitude of service provider
+Female,3,Fiber optic,80.1,217.55,Yes,1,65,4330,Attitude of service provider
+Female,2,Fiber optic,80.2,146.05,Yes,1,85,4381,Attitude of service provider
+Female,6,Fiber optic,98.15,567.45,Yes,1,80,3578,Attitude of support person
+Male,12,Fiber optic,112.95,1384.75,Yes,1,97,3965,Attitude of support person
+Female,1,Fiber optic,70.9,70.9,Yes,1,78,4739,Attitude of support person
+Female,3,Fiber optic,86.85,220.95,Yes,1,70,3561,Attitude of service provider
+Male,23,Fiber optic,99.85,2331.3,Yes,1,83,3425,Don't know
+Male,1,Fiber optic,74.5,74.5,Yes,1,75,5554,Attitude of service provider
+Male,65,Fiber optic,109.15,6941.2,Yes,1,99,6001,Attitude of support person
+Female,16,DSL,65.2,1043.35,Yes,1,73,4722,Attitude of support person
+Male,66,Fiber optic,99.5,6822.15,Yes,1,96,4479,Attitude of support person
+Male,1,Fiber optic,71.55,71.55,Yes,1,98,5739,Attitude of service provider
+Male,53,Fiber optic,93.9,5029.2,Yes,1,68,5543,Attitude of service provider
+Male,69,Fiber optic,108.4,7318.2,Yes,1,73,4708,Attitude of service provider
+Female,13,DSL,48.75,633.4,Yes,1,86,2655,Attitude of support person
+Female,4,Fiber optic,85.65,321.65,Yes,1,96,3223,Attitude of support person
+Male,12,Fiber optic,106.7,1253.9,Yes,1,92,2406,Attitude of support person
+Male,1,DSL,25.15,25.15,Yes,1,99,5386,Attitude of service provider
+Female,54,Fiber optic,110.35,5893.15,Yes,1,90,6189,Attitude of service provider
+Female,48,Fiber optic,103.25,5037.55,Yes,1,71,4736,Attitude of service provider
+Male,2,DSL,47.8,92.45,Yes,1,89,4134,Attitude of support person
+Female,29,Fiber optic,98.6,2933.2,Yes,1,72,5144,Attitude of support person
+Female,15,Fiber optic,83.05,1258.3,Yes,1,70,2596,Attitude of support person
+Male,17,Fiber optic,70.4,1214.05,Yes,1,67,4469,Attitude of service provider
+Female,56,Fiber optic,104.75,5510.65,Yes,1,93,5605,Attitude of service provider
+Female,21,Fiber optic,94.25,1973.75,Yes,1,73,4819,Attitude of service provider
+Female,1,DSL,45.95,45.95,Yes,1,82,4563,Attitude of support person
+Female,1,Fiber optic,70.15,70.15,Yes,1,71,2825,Competitor made better offer
+Female,1,Fiber optic,85.55,85.55,Yes,1,86,3967,Moved
+Female,35,Fiber optic,70.3,2416.55,Yes,1,79,5413,Moved
+Male,32,Fiber optic,106.35,3520.75,Yes,1,65,4113,Moved
+Female,33,Fiber optic,103.7,3467,Yes,1,76,4461,Competitor had better devices
+Male,1,Fiber optic,88.35,88.35,Yes,1,72,4254,Competitor offered higher download speeds
+Female,8,Fiber optic,94.2,777.3,Yes,1,80,2939,Competitor offered more data
+Female,5,Fiber optic,96.25,512.45,Yes,1,74,5056,Competitor made better offer
+Female,2,Fiber optic,70.7,141.45,Yes,1,86,4559,Competitor had better devices
+Female,42,DSL,33.55,1445.3,Yes,1,82,2044,Competitor had better devices
+Female,40,Fiber optic,94.55,3640.45,Yes,1,95,5676,Competitor offered higher download speeds
+Female,57,Fiber optic,112.95,6465,Yes,1,89,4738,Competitor offered higher download speeds
+Male,1,DSL,35.9,35.9,Yes,1,93,4747,Competitor offered higher download speeds
+Male,38,Fiber optic,99.25,3777.15,Yes,1,76,5274,Competitor offered more data
+Male,2,DSL,24.45,47.5,Yes,1,77,5573,Competitor offered more data
+Female,8,Fiber optic,103.35,847.3,Yes,1,71,2363,Competitor offered more data
+Male,7,Fiber optic,84.8,546.95,Yes,1,70,2015,Competitor made better offer
+Female,31,Fiber optic,99.95,3186.65,Yes,1,96,5362,Competitor made better offer
+Female,18,Fiber optic,90,1527.35,Yes,1,97,2708,Price too high
+Female,14,Fiber optic,104.85,1531.4,Yes,1,86,2292,Product dissatisfaction
+Male,28,Fiber optic,106.1,2847.4,Yes,1,85,3770,Service dissatisfaction
+Male,15,Fiber optic,74.2,1133.9,Yes,1,80,4553,Lack of self-service on Website
+Female,5,Fiber optic,89.35,461.7,Yes,1,70,4584,Network reliability
+Female,1,Fiber optic,77.15,77.15,Yes,1,79,2756,Limited range of services
+Male,1,DSL,35.25,35.25,Yes,1,88,2548,Lack of affordable download/upload speed
+Male,4,DSL,48.55,201,Yes,1,97,3955,Long distance charges
+Female,53,Fiber optic,98.4,5149.5,Yes,1,87,6481,Extra data charges
+Male,59,Fiber optic,93.85,5574.75,Yes,1,85,5390,Price too high
+Male,46,Fiber optic,100.7,4541.2,Yes,1,72,5712,Product dissatisfaction
+Female,14,Fiber optic,80.45,1072,Yes,1,94,4155,Service dissatisfaction
+Male,31,DSL,55.25,1715.65,Yes,1,78,2933,Lack of self-service on Website
+Male,13,DSL,54.45,706.85,Yes,1,88,5212,Network reliability
+Male,35,Fiber optic,75.35,2636.05,Yes,1,79,2785,Don't know
+Male,2,Fiber optic,75.7,189.2,Yes,1,82,4676,Don't know
+Male,1,Fiber optic,74.25,74.25,Yes,1,93,4750,Don't know
+Female,25,Fiber optic,89.7,2187.55,Yes,1,82,4078,Poor expertise of online support
+Female,16,Fiber optic,96.4,1581.2,Yes,1,80,2688,Poor expertise of phone support
+Male,1,Fiber optic,69.5,69.5,Yes,1,77,3273,Price too high
+Male,36,Fiber optic,85.25,3132.75,Yes,1,82,3041,Product dissatisfaction
+Male,1,No,19.4,19.4,Yes,1,66,4152,Service dissatisfaction
+Female,9,Fiber optic,83.3,803.3,Yes,1,97,3520,Lack of self-service on Website
+Female,8,Fiber optic,80.1,679.3,Yes,1,67,5071,Network reliability
+Male,45,DSL,62.7,2791.5,Yes,1,92,2654,Limited range of services
+Male,25,No,25.3,676.35,Yes,1,79,3779,Lack of affordable download/upload speed
+Male,13,Fiber optic,98.15,1230.25,Yes,1,98,5525,Long distance charges
+Male,46,Fiber optic,93.7,4154.8,Yes,1,70,3378,Extra data charges
+Male,25,Fiber optic,105.95,2655.25,Yes,1,100,4283,Price too high
+Male,18,DSL,82,1425.45,Yes,1,79,3306,Product dissatisfaction
+Male,60,Fiber optic,95.75,5742.9,Yes,1,88,4129,Service dissatisfaction
+Male,30,Fiber optic,94.05,2866.45,Yes,1,68,4095,Lack of self-service on Website
+Female,1,DSL,54.75,54.75,Yes,1,83,2614,Network reliability
+Male,39,Fiber optic,95.65,3759.05,Yes,1,65,4892,Don't know
+Female,1,Fiber optic,94.6,94.6,Yes,1,96,4033,Don't know
+Female,31,Fiber optic,98.9,2911.3,Yes,1,98,4050,Don't know
+Male,3,Fiber optic,76.05,231.8,Yes,1,67,2930,Price too high
+Male,1,Fiber optic,69.75,69.75,Yes,1,69,5057,Product dissatisfaction
+Male,7,DSL,34.5,279.25,Yes,1,93,3520,Service dissatisfaction
+Male,61,Fiber optic,105.55,6281.45,Yes,1,86,5011,Lack of self-service on Website
+Female,39,DSL,30.1,1131.3,Yes,1,72,3106,Network reliability
+Male,10,Fiber optic,70.3,738.2,Yes,1,94,2162,Limited range of services
+Female,1,Fiber optic,80.2,80.2,Yes,1,90,3056,Lack of affordable download/upload speed
+Female,67,Fiber optic,94.35,6341.45,Yes,1,99,4348,Long distance charges
+Male,6,DSL,44.6,260.8,Yes,1,90,4525,Extra data charges
+Female,1,No,19.6,19.6,Yes,1,91,4205,Price too high
+Female,33,Fiber optic,110.45,3655.45,Yes,1,80,3401,Product dissatisfaction
+Male,2,Fiber optic,70.7,140.7,Yes,1,96,5317,Service dissatisfaction
+Male,7,Fiber optic,99.25,665.45,Yes,1,90,2487,Lack of self-service on Website
+Male,1,Fiber optic,84.8,84.8,Yes,1,80,2627,Network reliability
+Male,52,Fiber optic,105,5426.85,Yes,1,85,4630,Don't know
+Male,22,DSL,54.45,1127.35,Yes,1,71,2445,Don't know
+Female,47,Fiber optic,85.3,4045.65,Yes,1,97,3631,Don't know
+Female,33,Fiber optic,83.35,2757.85,Yes,1,66,5456,Price too high
+Male,18,DSL,33.5,600,Yes,1,82,5474,Product dissatisfaction
+Male,24,Fiber optic,90.35,2238.5,Yes,1,67,5546,Service dissatisfaction
+Male,1,Fiber optic,90.75,90.75,Yes,1,86,5460,Lack of self-service on Website
+Female,4,Fiber optic,89.6,365.65,Yes,1,87,4689,Network reliability
+Male,2,DSL,49.25,90.35,Yes,1,90,5775,Limited range of services
+Male,1,No,19.75,19.75,Yes,1,92,2611,Lack of affordable download/upload speed
+Female,19,Fiber optic,95.15,1789.25,Yes,1,78,5830,Long distance charges
+Male,22,Fiber optic,101.35,2317.1,Yes,1,77,4694,Extra data charges
+Female,4,Fiber optic,70.05,266.9,Yes,1,89,3600,Price too high
